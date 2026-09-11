@@ -1,6 +1,6 @@
 const portfolioData = {
   "personal": {
-    "name": "Prince JH",
+    "name": "Prince Jha",
     "title": "Full Stack Developer & AI/ML Engineer",
     "email": "sri.vaishnav.das@gmail.com",
     "github": "https://github.com/Padmanabh-R-Das",
